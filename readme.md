@@ -1,16 +1,14 @@
 # My work and Blender
-![image](https://github.com/casilliose/axe3D/main/finelgif.gif)
+![image](https://github.com/casilliose/axe3D/blob/main/finelgif.gif)
 
 # bloking
-![image](https://github.com/casilliose/axe3D/main/bloking.png)
+![image](https://github.com/casilliose/axe3D/blob/main/bloking.png)
 
 # detalization
-![image](https://github.com/casilliose/axe3D/main/detalization.png)
+![image](https://github.com/casilliose/axe3D/blob/main/detalization.png)
 
 # light
-![image](https://github.com/casilliose/axe3D/main/light.png)
+![image](https://github.com/casilliose/axe3D/blob/main/light.png)
 
 # finel
-![image](https://github.com/casilliose/axe3D/main/finel.png)
-
-
+![image](https://github.com/casilliose/axe3D/blob/main/finel.png)
